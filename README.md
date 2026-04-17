@@ -2,11 +2,12 @@
 
 Extract structured data from [seek.com.au](https://seek.com.au) — job listings from seek.com.au (Australia) and seek.co.nz (New Zealand). Get title, company, salary, location, description, and company profiles. Supports incremental tracking and compact output for AI agents.
 
-**[SEEK Scraper on Apify →](https://apify.com/blackfalcondata/seek-scraper)**
+**[SEEK Job Scraper - Australia & New Zealand Job Listings on Apify →](https://apify.com/blackfalcondata/seek-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [seek.com.au](https://seek.com.au) — job listings
 ---
 
 ## Use cases
+
 
 
 
@@ -88,6 +90,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
