@@ -2,11 +2,12 @@
 
 Extract structured data from [seek.com.au](https://seek.com.au) — job listings from seek.com.au (Australia) and seek.co.nz (New Zealand). Get title, company, salary, location, description, and company profiles. Supports incremental tracking and compact output for AI agents.
 
-**[SEEK Job Scraper - Australia & New Zealand Job Listings on Apify →](https://apify.com/blackfalcondata/seek-scraper?fpr=1h3gvi)**
+**[seek.com.au Scraper on Apify →](https://apify.com/blackfalcondata/seek-scraper?fpr=1h3gvi)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -33,6 +34,7 @@ Extract structured data from [seek.com.au](https://seek.com.au) — job listings
 ---
 
 ## Use cases
+
 
 
 
@@ -221,6 +223,7 @@ See the [actor on Apify](https://apify.com/blackfalcondata/seek-scraper?fpr=1h3g
 
 
 
+
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
 - [Indeed Job Scraper](https://apify.com/blackfalcondata/indeed-job-scraper?fpr=1h3gvi) — Indeed job listings with salary data
 - [Glassdoor Job Scraper](https://apify.com/blackfalcondata/glassdoor-job-scraper?fpr=1h3gvi) — Glassdoor listings with company ratings
@@ -228,6 +231,14 @@ See the [actor on Apify](https://apify.com/blackfalcondata/seek-scraper?fpr=1h3g
 - [Naukri Scraper](https://apify.com/blackfalcondata/naukri-scraper?fpr=1h3gvi) — India's largest job portal
 - [Bilbasen Scraper](https://apify.com/blackfalcondata/bilbasen-scraper?fpr=1h3gvi) — Denmark's largest car marketplace
 
+---
+
+
+## About Black Falcon Data
+
+Black Falcon Data builds production-grade web scrapers for job boards and marketplace data. Browse our full actor catalog at [www.blackfalcondata.com](https://www.blackfalcondata.com).
+
+---
 
 ## Getting started with Apify
 
@@ -241,12 +252,6 @@ Need more volume? [See pricing](https://apify.com/pricing?fpr=1h3gvi).
 
 ---
 
-
-## About Black Falcon Data
-
-Black Falcon Data builds production-grade web scrapers for job boards and marketplace data. Browse our full actor catalog at [www.blackfalcondata.com](https://www.blackfalcondata.com).
-
----
 ---
 
 *Last updated: 2026 03*
